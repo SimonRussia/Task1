@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/SimonRussia/Task1.svg?branch=master)](https://travis-ci.org/SimonRussia/Task1)
+
 ## Laboratory work IV
 
 **Отчет:** Овчаров Анисим (ИУ8-33)
