@@ -12,6 +12,3 @@ addons:
     packages:
       - cmake
       - cmake-data
-      
-   cache:
-    apt: true
